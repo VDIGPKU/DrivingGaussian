@@ -9,7 +9,7 @@ This is the official implementation of **DrivingGaussian: Composite Gaussian Spl
 * 2023/12/07 - [**Webpage**](https://pkuvdig.github.io/DrivingGaussian/)
 
 ## Weights
-Pre-trained weights for certain scenes are released, with more scenes will be included soon:
+Pre-trained weights for certain scenes are released:
 [Google Cloud](https://drive.google.com/drive/folders/1O5juO_RTGcrpe_K4nlbW7AVcTvBBtOir?usp=sharing)
 
 ## License
