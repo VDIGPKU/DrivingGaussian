@@ -14,8 +14,41 @@ This is the official implementation of **DrivingGaussian: Composite Gaussian Spl
 Pre-trained weights for certain scenes are released:
 [Google Cloud](https://drive.google.com/drive/folders/1O5juORTGcrpeK4nlbW7AVcTvBBtOir?usp=sharing)
 
+## Requirements
+
+## Setups
+Please follow the [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) to install the relative packages.
+```bash
+git clone https://github.com/VDIGPKU/DrivingGaussian
+cd DrivingGaussian
+git submodule update --init --recursive
+conda create -n DrivingGaussian python=3.8 
+conda activate DrivingGaussian
+
+pip install -r requirements.txt
+pip install -e submodules/depth-diff-gaussian-rasterization
+pip install -e submodules/simple-knn
+```
+
+## Training
+For training the driving scenes dataset, 
+```bash
+python train.py -s "data/nuscenes/sceneID/" -m "saved/checkpoints/"
+```
+
+## Rendering
+Render the images with the following script
+```bash
+python render_combine.py -m "saved/checkpoints/"
+```
+
+## Tools and Preprocessing
+```bash
+
+```
+
 ## Acknowledgements
-The overall code and renderer are based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting). We sincerely thank the authors for their great work.
+The overall code and renderer are based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [4DGS](https://github.com/hustvl/4DGaussians). We sincerely thank the authors for their great work.
 
 ## License
 The project is only free for academic research purposes, but needs authorization forcommerce. For commerce permission, please contact wyt@pku.edu.cn.
