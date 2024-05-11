@@ -5,9 +5,9 @@ This is the official implementation of **DrivingGaussian: Composite Gaussian Spl
 [**Paper**](https://cvpr.thecvf.com/virtual/2024/poster/31081) | [Xiaoyu Zhou📧](xyrain.zhou@gmail.com), [Zhiwei Lin📧](zwlin@pku.edu.cn), [Xiaojun Shan📧](sxjailame@gmail.com), [Yongtao Wang📧](wyt@pku.edu.cn), [Deqing Sun📧](deqingsun@gmail.com), [Ming-Hsuan Yang📧](minghsuanyang@gmail.com)
 
 ## Update
-* 2024/04/25 - Code: please sign the [application](https://github.com/VDIGPKU/DrivingGaussian/blob/main/DrivingGaussian%20Application.docx) to obtain the code
+* 2024/05/10 - Code: please sign the [application](https://github.com/VDIGPKU/DrivingGaussian/blob/main/DrivingGaussian%20Application.docx) to obtain the code
 * 2024/03/13 - Pre-trained weights are released
-* 2024/02/27 - Paper: Accepted by CVPR2024 👏
+* 2024/02/27 - Paper: Accepted by CVPR 2024 👏
 * 2023/12/07 - [**Webpage**](https://pkuvdig.github.io/DrivingGaussian/)
 
 ## Weights
