@@ -50,13 +50,22 @@ Render the images with the following script
 python render_combine.py -m "saved/checkpoints/"
 ```
 
-## Tools and Preprocessing
-```bash
-
-```
 
 ## Acknowledgements
-The overall code and renderer are based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [4DGS](https://github.com/hustvl/4DGaussians). We sincerely thank the authors for their great work.
+The overall code and renderer are based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting), [Deformable](https://github.com/ingra14m/Deformable-3D-Gaussians), and [4DGS](https://github.com/hustvl/4DGaussians). We sincerely thank the authors for their great work.
+
+## BibTex
+
+```
+@inproceedings{zhou2024drivinggaussian,
+  title={Drivinggaussian: Composite gaussian splatting for surrounding dynamic autonomous driving scenes},
+  author={Zhou, Xiaoyu and Lin, Zhiwei and Shan, Xiaojun and Wang, Yongtao and Sun, Deqing and Yang, Ming-Hsuan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21634--21643},
+  year={2024}
+}
+```
+
 
 ## License
 The project is only free for academic research purposes, but needs authorization forcommerce. For commerce permission, please contact wyt@pku.edu.cn.
