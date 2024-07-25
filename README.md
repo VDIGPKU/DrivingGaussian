@@ -2,7 +2,7 @@
 
 This is the official implementation of **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**.
 
-[**Paper**](https://cvpr.thecvf.com/virtual/2024/poster/31081) | [Xiaoyu Zhou📧](xyrain.zhou@gmail.com), [Zhiwei Lin📧](zwlin@pku.edu.cn), [Xiaojun Shan📧](sxjailame@gmail.com), [Yongtao Wang📧](wyt@pku.edu.cn), [Deqing Sun📧](deqingsun@gmail.com), [Ming-Hsuan Yang📧](minghsuanyang@gmail.com)
+[**Paper**](https://cvpr.thecvf.com/virtual/2024/poster/31081) | [Xiaoyu Zhou](xyrain.zhou@gmail.com), Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 
 ## Update
 * 2024/05/10 - Code: please sign the [application](https://github.com/VDIGPKU/DrivingGaussian/blob/main/DrivingGaussian%20Application.docx) to obtain the code
