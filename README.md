@@ -10,9 +10,17 @@ This is the official implementation of **DrivingGaussian: Composite Gaussian Spl
 * 2024/02/27 - Paper: Accepted by CVPR 2024 👏
 * 2023/12/07 - [**Webpage**](https://pkuvdig.github.io/DrivingGaussian/)
 
-## Weights
-Pre-trained weights for certain scenes are released:
-[Google Cloud](https://drive.google.com/drive/folders/1O5juORTGcrpeK4nlbW7AVcTvBBtOir?usp=sharing)
+### Demo
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/video.gif" width="200"/>
+
+### Qualitative Comparison
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/teaser.png" width="200"/>
+
+### Overview
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/method.png" width="200"/>
+
+### Corner Case Simulation
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/cornercase.gif" width="200"/>
 
 ## Requirements
 
