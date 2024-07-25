@@ -11,16 +11,16 @@ This is the official implementation of **DrivingGaussian: Composite Gaussian Spl
 * 2023/12/07 - [**Webpage**](https://pkuvdig.github.io/DrivingGaussian/)
 
 ### Demo
-<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/video.gif" width="200"/>
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/video.gif" width="700"/>
 
 ### Qualitative Comparison
-<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/teaser.png" width="200"/>
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/teaser.png" width="700"/>
 
 ### Overview
-<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/method.png" width="200"/>
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/method.png" width="700"/>
 
 ### Corner Case Simulation
-<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/cornercase.gif" width="200"/>
+<img src="https://github.com/VDIGPKU/DrivingGaussian/blob/main/assets/cornercase.gif" width="700"/>
 
 ## Requirements
 
